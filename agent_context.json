@@ -1,0 +1,16 @@
+{
+  "agent_name": "PTAC Daily Call Focus Agent",
+  "repository_purpose": "Generate accurate, updated daily WhatsApp focus posts from monthly call review data.",
+  "business_context": "Precision Tune Auto Care Automotive Hospitality phone training.",
+  "strict_required_greeting": "Thank you for choosing Precision Tune Auto Care, my name is [employee’s name], who do I have the pleasure of speaking with?",
+  "campaign_title": "Own the First 10 Seconds. Control the Last 30 Seconds.",
+  "posting_cadence": "One post every weekday for three weeks.",
+  "total_posts": 15,
+  "primary_files": [
+    "prompts/daily-focus-agent-prompt.md",
+    "data/call-review-monthly-2026-06.json",
+    "data/weekly-focus-plan.json",
+    "content/whatsapp-posts-3-week-campaign.md",
+    "schemas/daily-post-output.schema.json"
+  ]
+}
