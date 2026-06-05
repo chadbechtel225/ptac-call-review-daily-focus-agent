@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Daily WhatsApp Focus Post",
+  "type": "object",
+  "required": ["campaign_title", "week", "day", "focus_title", "post", "today_challenge"],
+  "properties": {
+    "campaign_title": {
+      "type": "string",
+      "const": "Own the First 10 Seconds. Control the Last 30 Seconds."
+    },
+    "week": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 3
+    },
+    "day": {
+      "type": "string",
+      "enum": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+    },
+    "focus_title": {
+      "type": "string"
+    },
+    "post": {
+      "type": "string",
+      "description": "Final WhatsApp-ready training post."
+    },
+    "today_challenge": {
+      "type": "string"
+    },
+    "source_files_used": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "required_greeting_included_when_relevant": {
+      "type": "boolean"
+    }
+  }
+}
