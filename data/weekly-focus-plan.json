@@ -1,0 +1,58 @@
+{
+  "campaign_title": "Own the First 10 Seconds. Control the Last 30 Seconds.",
+  "duration": "3 weeks",
+  "schedule": "Monday through Friday",
+  "total_posts": 15,
+  "weeks": [
+    {
+      "week": 1,
+      "theme": "Required Greeting + Professional First Impression",
+      "goal": "Make the required greeting automatic, clear, warm, and consistent.",
+      "daily_topics": [
+        { "day": "Monday", "title": "The Greeting Is the Standard", "behavior": "Use the required greeting exactly at the start of every call." },
+        { "day": "Tuesday", "title": "Say It Clearly", "behavior": "Slow down, speak clearly, and make the full greeting easy to understand." },
+        { "day": "Wednesday", "title": "Your Name Matters", "behavior": "Give your name clearly and confidently as part of the required greeting." },
+        { "day": "Thursday", "title": "Get and Use the Customer’s Name", "behavior": "Ask who you are speaking with and naturally use the customer's name during the call." },
+        { "day": "Friday", "title": "Greeting Audit", "behavior": "Review whether every call followed the required greeting and sounded professional." }
+      ]
+    },
+    {
+      "week": 2,
+      "theme": "Active Listening + Clarifying Questions",
+      "goal": "Train the team to slow down, listen fully, ask better questions, and understand the customer’s real concern before recommending the next step.",
+      "daily_topics": [
+        { "day": "Monday", "title": "Let the Customer Finish", "behavior": "Do not interrupt the customer; pause before responding." },
+        { "day": "Tuesday", "title": "Ask Better Questions", "behavior": "Ask at least two clarifying questions before recommending the next step." },
+        { "day": "Wednesday", "title": "Paraphrase the Concern", "behavior": "Repeat the customer's concern back before moving to appointment or inspection." },
+        { "day": "Thursday", "title": "Listen for the Real Need", "behavior": "Identify what the customer is really worried about, not just the words they said." },
+        { "day": "Friday", "title": "Patience Wins Trust", "behavior": "Slow down, listen fully, and make the customer feel heard before making them feel scheduled." }
+      ]
+    },
+    {
+      "week": 3,
+      "theme": "Clarity, Warmth, and Strong Call Closure",
+      "goal": "Improve communication by making advisors warmer, clearer, more concise, and stronger at closing calls with confirmed next steps.",
+      "daily_topics": [
+        { "day": "Monday", "title": "Say It Cleaner", "behavior": "Use acknowledge, clarify, recommend, confirm." },
+        { "day": "Tuesday", "title": "Warmth Is Not Optional", "behavior": "Make every customer feel welcomed, not processed." },
+        { "day": "Wednesday", "title": "Replace Weak Words", "behavior": "Replace uncertain language with confident guidance." },
+        { "day": "Thursday", "title": "Confirm the Next Step", "behavior": "Confirm appointment time, concern, next action, and best contact number." },
+        { "day": "Friday", "title": "Finish With Confidence", "behavior": "End with gratitude, certainty, and a clear plan." }
+      ]
+    }
+  ],
+  "scorecard": [
+    "Used the required greeting exactly",
+    "Said the company name clearly",
+    "Gave the employee's name clearly",
+    "Asked for the customer's name",
+    "Used a warm and professional tone",
+    "Asked clarifying questions",
+    "Let the customer finish without interrupting",
+    "Paraphrased the customer's concern",
+    "Communicated clearly without rambling or repeating",
+    "Confirmed the next step or appointment",
+    "Confirmed the best contact number",
+    "Closed with gratitude and confidence"
+  ]
+}
