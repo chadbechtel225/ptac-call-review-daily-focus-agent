@@ -1,0 +1,151 @@
+{
+  "program": "Precision Tune Auto Care Call Review Training",
+  "campaign_title": "Own the First 10 Seconds. Control the Last 30 Seconds.",
+  "required_answering_procedure": {
+    "status": "strict_required_expectation",
+    "trained": true,
+    "script": "Thank you for choosing Precision Tune Auto Care, my name is [employee’s name], who do I have the pleasure of speaking with?",
+    "notes": [
+      "This greeting is not optional.",
+      "Everyone has been fully trained on this expectation.",
+      "The greeting must be used exactly at the beginning of every customer phone call.",
+      "The word Absolutely may still be used after the greeting as affirmative language, but it is not part of the required answering procedure."
+    ]
+  },
+  "monthly_review_summary": {
+    "core_strength": "The team is strong at concluding calls, confirming appointments, summarizing next steps, and creating customer clarity at the end of conversations.",
+    "core_gap": "The team is inconsistent at the beginning of calls, especially with required greeting discipline, company identification, warmth, tone, and professional first impressions.",
+    "leadership_interpretation": "This is not primarily a talent problem. It is a consistency and standards problem. Strong behaviors already exist across the team, but they are not yet automatic across every store, advisor, and call."
+  },
+  "positive_themes": [
+    {
+      "title": "Mastering Effective Call Closure Techniques",
+      "key_insight": "Over 20 instances where agents successfully closed calls by ensuring customers felt informed and valued, often resulting in customers expressing gratitude and confirming their visits.",
+      "related_team_members": ["2421 Tune", "2422 Tune", "2425 Tune", "2426 TUNE"],
+      "recommended_actions": [
+        "Organize workshops to share techniques for effective call closures, focusing on summarizing key points and next steps.",
+        "Implement a checklist for agents to use at the end of each call to ensure all customer needs are addressed.",
+        "Encourage follow-up with customers after call closures to reinforce satisfaction and trust."
+      ]
+    },
+    {
+      "title": "Exemplary Greeting and Professional Introduction Techniques",
+      "key_insight": "Over 20 instances highlighted agents setting a positive tone with professional greetings and creating a welcoming environment from the start.",
+      "related_team_members": ["2209 Tune", "2210 Tune", "2407 Tune", "2410 Tune"],
+      "recommended_actions": [
+        "Conduct a workshop to reinforce effective greeting techniques and first impressions.",
+        "Encourage agents to personalize greetings by using the customer's name to enhance rapport.",
+        "Role-play scenarios to practice maintaining a professional tone throughout different call types."
+      ]
+    },
+    {
+      "title": "Effective Call Conclusion and Customer Satisfaction",
+      "key_insight": "Over 25 instances highlighted agents managing call conclusions well, with customers frequently expressing gratitude and confirming next steps.",
+      "related_team_members": ["2209 Tune", "2210 Tune", "2212 Tune", "2407 Tune"],
+      "recommended_actions": [
+        "Create a best practices guide for call conclusions, including tips for ensuring customer understanding and satisfaction.",
+        "Facilitate peer review sessions where agents share successful closing techniques.",
+        "Set up role-playing exercises for different call conclusion scenarios and customer inquiries."
+      ]
+    },
+    {
+      "title": "Proactive Customer Engagement and Clarifying Questions",
+      "key_insight": "More than 20 instances showed agents engaging customers through targeted questions that clarified needs and built trust.",
+      "related_team_members": ["2209 Tune", "2210 Tune", "2212 Tune", "2407 Tune"],
+      "recommended_actions": [
+        "Train questioning techniques that help advisors better understand customer needs.",
+        "Encourage open-ended questions to explore customer issues more deeply.",
+        "Review call recordings to identify effective questioning strategies and share insights with the team."
+      ]
+    },
+    {
+      "title": "Exemplary Rapport Building Techniques",
+      "key_insight": "Feedback from over 15 agents highlighted rapport-building through customer names, warm tone, friendly interaction, and genuine interest.",
+      "related_team_members": ["2210 Tune", "2407 Tune", "2410 Tune", "2419 Tune"],
+      "recommended_actions": [
+        "Develop a guide on rapport-building strategies, including customer names and warm tone.",
+        "Encourage personalized interactions by recalling previous conversations or using casual language where appropriate.",
+        "Conduct feedback sessions to discuss challenges and successes in building rapport."
+      ]
+    },
+    {
+      "title": "Exemplary Customer Engagement through Active Listening and Inquiry",
+      "key_insight": "Feedback from over 15 agents highlighted active listening and inquiry that addressed customer needs, clarified concerns, and improved service quality.",
+      "related_team_members": ["2209 Tune", "2210 Tune", "2212 Tune", "2407 Tune"],
+      "recommended_actions": [
+        "Train active listening skills to ensure agents fully understand customer needs and concerns.",
+        "Encourage agents to paraphrase customer concerns to confirm understanding and build trust.",
+        "Create a feedback loop where agents share techniques on effective listening and inquiry."
+      ]
+    }
+  ],
+  "improvement_themes": [
+    {
+      "title": "Enhancing Use of Affirmative Language",
+      "key_insight": "Over 35 agents were noted for not using affirmative language like Absolutely, indicating a widespread issue affecting confidence and customer engagement.",
+      "team_members_needing_support": ["2209 Tune", "2210 Tune", "2407 Tune", "2419 Tune"],
+      "recommended_actions": [
+        "Train affirmative language that conveys confidence after the required greeting.",
+        "Practice affirmations in role-play exercises.",
+        "Monitor calls for affirmative language and provide direct coaching."
+      ]
+    },
+    {
+      "title": "Improving Greeting and Introduction Professionalism",
+      "key_insight": "More than 30 agents did not mention the company's name during greetings, impacting professionalism and customer trust.",
+      "team_members_needing_support": ["2209 Tune", "2212 Tune", "2407 Tune", "2410 Tune"],
+      "recommended_actions": [
+        "Use the standardized required greeting exactly.",
+        "Practice professional greeting techniques daily.",
+        "Provide feedback and coaching to reinforce clear introductions."
+      ]
+    },
+    {
+      "title": "Enhancing Clarity and Conciseness in Communication",
+      "key_insight": "Over 40 instances of repetitive phrasing or unclear communication were identified, indicating a need for cleaner, more concise communication.",
+      "team_members_needing_support": ["2209 Tune", "2210 Tune", "2212 Tune", "2407 Tune"],
+      "recommended_actions": [
+        "Train advisors on concise communication and clear next-step language.",
+        "Encourage advisors to avoid unnecessary repetition during calls.",
+        "Monitor calls for repetitive patterns and provide specific feedback."
+      ]
+    },
+    {
+      "title": "Improving Tone and Warmth in Customer Interactions",
+      "key_insight": "Feedback from more than 30 agents highlighted the need for warmer, more engaging tone to improve customer satisfaction.",
+      "team_members_needing_support": ["2419 Tune", "2420 Tune", "2421 Tune", "2422 Tune"],
+      "recommended_actions": [
+        "Train warmer and more engaging communication style.",
+        "Use role-play to practice a friendly tone throughout customer interactions.",
+        "Provide tone and engagement feedback after call reviews."
+      ]
+    },
+    {
+      "title": "Improving Professionalism in Initial Greetings",
+      "key_insight": "Around 10 agents used unprofessional language such as I don't care during initial greetings, negatively impacting customer trust and perception.",
+      "team_members_needing_support": ["2210 Tune", "2407 Tune", "2410 Tune", "2426 TUNE"],
+      "recommended_actions": [
+        "Maintain zero tolerance for unprofessional language during customer interactions.",
+        "Train appropriate language and communication etiquette.",
+        "Monitor calls and provide corrective feedback as necessary."
+      ]
+    },
+    {
+      "title": "Improving Active Listening and Patience",
+      "key_insight": "Over 20 instances of impatience or interruptions were noted, suggesting a need for stronger active listening and patience.",
+      "team_members_needing_support": ["2407 Tune", "2410 Tune", "2422 Tune", "2423 Tune"],
+      "recommended_actions": [
+        "Conduct active listening workshops.",
+        "Encourage advisors to let customers fully express concerns before responding.",
+        "Provide specific coaching on maintaining focus and patience during customer interactions."
+      ]
+    }
+  ],
+  "coaching_principles": [
+    "The team is not broken. The process is not fully locked in.",
+    "Excellence is showing up in moments instead of becoming the daily minimum standard.",
+    "The goal is consistency: every customer, every call, every store.",
+    "Start professionally, listen patiently, guide confidently, and close clearly.",
+    "Automotive Hospitality starts before the vehicle ever enters the bay."
+  ]
+}
